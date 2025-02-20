@@ -1,13 +1,24 @@
 # markov-chains-differential-expression-analysis
 
-Project Description
+
+## DataSet
+**File Name:** assess_data_1224 (1).Rdata
+**Usage:** Make sure that the dataset is in the same folder as the RMD file before running the code. 
+
+## Files in This Repository 
+'Markov chains.html' -> Final HTML report
+'Markov chains.Rmd' -> Main R Markdown file 
+'assess_data_1224 (1).Rdata' -> Data used in the analysis 
+
+
+## Project Description
 This repository demonstrates advanced statistical modeling techniques applied to healthcare data and genomic expression analysis. It showcases two complementary analyses:
 
-1) Markov Chain Modeling of Patient Health Trajectories: Implementation of stochastic models to simulate patient transitions between health states (Healthy, Sick, Hospitalized, and Dead) over time. This analysis quantifies expected durations in each state and explores how initial conditions affect long-term health outcomes.
+1) **Markov Chain Modeling of Patient Health Trajectories:** Implementation of stochastic models to simulate patient transitions between health states (Healthy, Sick, Hospitalized, and Dead) over time. This analysis quantifies expected durations in each state and explores how initial conditions affect long-term health outcomes.
 
-2) Differential Gene Expression Analysis of Tumor vs. Normal Tissue: Application of robust statistical methods to identify significantly differentially expressed genes between paired tumor and normal tissue samples. This includes quality control procedures, outlier detection, and evaluation of covariates that influence expression patterns.
+2) **Differential Gene Expression Analysis of Tumor vs. Normal Tissue:** Application of robust statistical methods to identify significantly differentially expressed genes between paired tumor and normal tissue samples. This includes quality control procedures, outlier detection, and evaluation of covariates that influence expression patterns.
 
-Technical Skills Demonstrated
+**Technical Skills Demonstrated**
 
 Stochastic modeling using Markov chains
 RNA-seq data preprocessing and quality control
