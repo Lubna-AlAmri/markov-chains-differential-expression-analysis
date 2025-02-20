@@ -24,11 +24,17 @@ This repository demonstrates advanced statistical modeling techniques applied to
 **Technical Skills Demonstrated**
 
 Stochastic modeling using Markov chains
+
 RNA-seq data preprocessing and quality control
+
 Poisson regression for count data
+
 Covariate analysis in gene expression studies
+
 Visualization of complex biological data
+
 Statistical hypothesis testing with multiple comparison correction
+
 R programming for biological data analysis
 
 This project highlights the application of statistical methods to understand both macro-level patient trajectories and molecular-level gene expression changes, demonstrating proficiency in computational biology and biostatistics.
