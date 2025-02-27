@@ -1,18 +1,17 @@
 # markov-chains-differential-expression-analysis
 
+**View the rendered HTML report:** [Markov Chains Analysis](https://lubna-alamri.github.io/markov-chains-differential-expression-analysis/Markov%20chains.html)
 
 ## DataSet
+
 **File Name:** assess_data_1224 (1).Rdata
 
 **Usage:** Make sure that the dataset is in the same folder as the RMD file before running the code. 
 
-## Files in This Repository 
-'Markov chains.html' -> Final HTML report
-
-'Markov chains.Rmd' -> Main R Markdown file 
-
-'assess_data_1224 (1).Rdata' -> Data used in the analysis 
-
+## Files in This Repository
+- `Markov chains.html` - Final HTML report
+- `Markov chains.Rmd` - Main R Markdown file
+- `assess_data_1224 (1).Rdata` - Data used in the analysis
 
 ## Project Description
 This repository demonstrates advanced statistical modeling techniques applied to healthcare data and genomic expression analysis. It showcases two complementary analyses:
